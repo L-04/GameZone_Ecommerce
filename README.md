@@ -39,7 +39,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <div align="center">
   <picture>
-       <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772033216/Total_sales_Light_c3lj46.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772034391/Sales_Revenue_Light_xgmrqg.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772034669/Sheet_18_2_1_csrv4e.png">
     <img width="1000" alt="Monthly sales bar chart showing peaks and dips from 2019-2022" src="https://res.cloudinary.com/your-account/image/upload/v1234567890/light-chart.png">
   </picture>
