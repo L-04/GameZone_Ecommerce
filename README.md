@@ -18,7 +18,6 @@ Today, **GameZone** manages a global supply chain, serving a customer base of ap
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate **GameZone's** performance over the past several years (2019–2021). This comprehensive review provides valuable insights that internal cross-functional teams will utilise to streamline processes and enhance **GameZone's** commercial performance. The key insights and recommendations focus on the following areas:
 
 
-  
 ### Northstar Metrics
 
 - **Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV) across the 2019-2021 period.**
@@ -27,6 +26,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 - **Regional dynamics - Evaluating regional demand and product performance within regions to identify areas for improvement.**
 
 <br>
+
+
+
 
 <div align="center">
   
@@ -74,6 +76,8 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   </tr>
 </table>
 
+
+
 <div align="center">
   
 ## **Dataset Structure and ERD (Entity Relationship Diagram)**
@@ -87,5 +91,38 @@ The database structure as seen below consists of four tables: **Orders**, **Cust
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772040463/Screenshot_2026-02-21_at_16.02.32_dodnrl.png">
     <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772040704/Screenshot_2026-02-25_at_17.33.01_txdoko.png">
     <img width="680" alt="Entity Relationship Diagram showing tables: orders, customers, geo_lookup, and order_status" src="https://res.cloudinary.com/dsz6plni9/image/upload/v1772040704/Screenshot_2026-02-25_at_17.33.01_txdoko.png">
+  </picture>
+</div>
+
+
+
+<h1 align="center">Insights Deep-Dive</h1>
+
+<h2 align="center">Sales Trend</h2>
+
+#### Total Sales Revenue
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772470518/Total_Sales_Dark_Line_izkqhp.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772470526/Total_Sales_Light_Line_imym6o.png">
+    <img width="600" alt="Total sales revenue line graph over time" src="https://res.cloudinary.com/dsz6plni9/image/upload/v1772470526/Total_Sales_Light_Line_imym6o.png">
+  </picture>
+</div>
+
+#### Average Order Value (AOV)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471770/AOV_Dark_uv4sbd.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471766/AOV_Light_r417lu.png">
+    <img width="600" alt="Average order value line graph over time" src="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471766/AOV_Light_r417lu.png">
+  </picture>
+</div>
+
+#### Order Volume
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471792/OrderCount_Dark_keudsj.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471788/OrderCount_Light_npvbzu.png">
+    <img width="600" alt="Number of orders line graph over time" src="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471788/OrderCount_Light_npvbzu.png">
   </picture>
 </div>
