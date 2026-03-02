@@ -144,7 +144,7 @@ The database structure as seen below consists of four tables: **Orders**, **Cust
 
 ---
 
-#### Order Volume
+#### Order Count
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dsz6plni9/image/upload/v1772471792/OrderCount_Dark_keudsj.png">
@@ -153,11 +153,12 @@ The database structure as seen below consists of four tables: **Orders**, **Cust
   </picture>
 </div>
 
-**1. Channel Performance**
-- Direct channel dominates all others by a significant margin
-- Email was the only channel showing growth in 2021 while others plummeted
+**1. Revenue decline driven by order volume, not AOV**
+- Order counts closely track sales revenue, confirming that the **2021 sales drop was primarily due to fewer transactions** rather than customers spending less per order
 
-**2. Regional Patterns**
-- Complete sales dip across all products in North America
-- PS5 in APAC and Lenovo in EMEA showed growth in early 2021 despite global decline
-- Nintendo Switch experienced a nearly 20% refund rate in early 2021
+**2. Pandemic-fueled growth, then pullback**
+- Total orders **increased 102% from 2019 to 2020**, capturing the COVID gaming boom
+- December 2020 alone saw a **109% increase year-over-year**, highlighting just how extreme the peak was before the subsequent decline
+
+**3. The September-October pattern**
+- Order volume consistently drops from September to October, with 2020 seeing a 31% decline - reinforcing that October is a structural low point before holiday shopping begins
